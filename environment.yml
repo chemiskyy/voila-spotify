@@ -4,11 +4,11 @@ channels:
 dependencies:
   - numpy
   - pandas
+  - bqplot
   - ipympl
   - seaborn
   - voila
   - voila-material
-  - pandas
   - pip
   - pip:
     - qgrid>=1.3.0
