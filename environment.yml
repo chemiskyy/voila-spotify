@@ -7,10 +7,10 @@ dependencies:
   - bqplot
   - ipympl
   - seaborn
-  - voila==0.1.20
-  - voila-material
-  - voila-gridstack
   - ipywidgets>=7.5
   - pip
   - pip:
     - qgrid>=1.3.0
+    - voila==0.1.20
+    - voila-material
+    - voila-gridstack
