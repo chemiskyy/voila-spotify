@@ -8,3 +8,7 @@ dependencies:
   - seaborn
   - voila
   - voila-material
+  - pandas
+  - pip
+  - pip:
+    - qgrid>=1.3.0
