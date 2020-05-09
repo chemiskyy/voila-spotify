@@ -8,10 +8,10 @@ dependencies:
   - seaborn
   - pip
   - pip:
-    - qgrid>=1.3.0
     - voila>=0.1.21
     - voila-material
     - voila-gridstack
     - ipywidgets>=7.5.1
     - pandas>=1.0.3
     - bqplot>=0.11.2
+    - ipysheet=0.4.4
